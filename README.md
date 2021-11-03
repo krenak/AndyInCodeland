@@ -1,6 +1,6 @@
 # Andy in Codeland
 
-Personal blog filled with quick insights, homecook research and eager discoveries to help anyone who luckily - or not - encounter the page. So, you visitor are more than welcomed to get to work and help me to build reliable data - but if you just stop by to use my posts to get out of some troublesome, I won't mind as well... ;)
+Personal blog filled with quick insights, homecook research and eager discoveries to help anyone who luckily - or not *haha* - encounter the page. So, you visitor are more than welcomed to get to work and help me to build reliable data - but if you just stop by to use my posts to get out of some troublesome, I won't mind as well... ;)
 
 As a good FLOSS enthusiast, I highly encouraged you to contribute with discussions, cutting-edge analysis whenever possible. Any contribution is more than greeted.
 
@@ -17,3 +17,11 @@ git config user.name "Your Name"
 git config user.email "username@email.com"
 
 ```
+Then, clone this repo by copy pasting this line (*bare with me, I highly suggest you use SSH to save some valuable time. More info [here](https://about.gitlab.com/blog/2018/08/09/keeping-your-account-safe/) or [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for Github guys.*)
+```Git
+git clone git@gitlab.com:krenak/blog.git
+
+```
+Once your clonning is done, head to your (*or ours heheheh*) new cloned directory by typing
+```cd AndyInCodeland/```
+Now 
