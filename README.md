@@ -23,5 +23,10 @@ git clone git@gitlab.com:krenak/blog.git
 
 ```
 Once your clonning is done, head to your (*or ours heheheh*) new cloned directory by typing
-```cd AndyInCodeland/```
-Now 
+```
+cd AndyInCodeland/
+```
+Now you're in the folder, let's modify 
+
+## Getting in touch
+In case you are not confortable to do this *reverse-trailblazing* stuff directly, without previous communication, you can hit me up a [email](mailto:kaspa@onionmail.org) using this public key, for safety reasons - *hey, safety first always!* :D
