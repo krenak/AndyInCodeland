@@ -6,7 +6,7 @@ As a good FLOSS enthusiast, I highly encouraged you to contribute with discussio
 
 ## How to contribute
 
-As all geeks and TI professionals - with emphasis to FLOSS community - I'd suggest to use [Git](https://git-scm.com/book/en/v2) as main driver here, for a variety of reasons. If is a worrisome source for you, [here are some tips to get going using Git](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes).
+All geeks and TI professionals - with emphasis to FLOSS community - suggest to use [Git](https://git-scm.com/book/en/v2) as main driver here, for a variety of reasons. If is a worrisome source for you, [here are some tips to get going using Git](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes).
 For fast-fowarding-back-to-the-future abilities, you could get to assist this blog by reproducing the following steps below.
 
 ### Managing local repoistory
@@ -33,7 +33,7 @@ Once your clonning and branching are done, head to your (*or ours heheheh*) new 
 ```
 cd AndyInCodeland/
 ```
-Now you're in the folder, you can modify any of the files and commit the changes.
+Now you're in the folder, you can modify any of the files and commit the changes later.
 
 ## Getting in touch
 In case you are not confortable to do this *reverse-trailblazing* stuff directly, without previous communication, you can hit me up a [email](mailto:kaspa@onionmail.org) using this public key, for safety reasons - *hey, safety first always!* :D
