@@ -1,8 +1,14 @@
----
-title: "Initiating some work here"
-date: 2021-11-02T20:09:29-04:00
-draft: true
----
++++
+author = "Anderson Fraga"
+title = "Initiating some work here"
+date = 2021-11-02
+description = "Euphoric description of my own blogger snippets."
+tags = ["blog", "Hugo", "css", "html"]
+categories = ["start", "trivia"]
+draft = false
++++
+
+An euphoric attempt to describe my initial blogger snippets.<!--more-->
 # Let's get started
 
 Here to posterity, I mark this territory *with an imaginary flag* and name **Codeland**!
