@@ -21,8 +21,8 @@ mode = "dark-mode"
 
 # Sidebar: about/bio
 [params.about]
-title = "risotto"
-description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
+title = "Andy in Wonderland"
+description = "A blog about my academic and professional adventures, powered by some [magic](https://gohugo.io)."
 logo = "images/rice.svg"
 
 # Sidebar: social links
