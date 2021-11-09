@@ -15,19 +15,16 @@ First, configure your Git credentials locally by typing:
 ```Git
 git config user.name "Your Name"
 git config user.email "username@email.com"
-
 ```
 Then, clone this repo by copy pasting this line - *bare with me, I highly suggest you use SSH to save some valuable time. More info [here](https://about.gitlab.com/blog/2018/08/09/keeping-your-account-safe/) or [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for Github guys.*
 ```Git
 git clone git@gitlab.com:krenak/blog.git
-
 ```
 Also, to mantain things organized, it's standard procedure to create a branch and work on that:
 
 ```Git
 git branch new_branch
 git checkout -b new_branch
-
 ```
 Once your clonning and branching are done, head to your (*or ours heheheh*) new cloned directory by typing:
 ```
