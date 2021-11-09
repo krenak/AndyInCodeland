@@ -6,7 +6,9 @@ author = "Anderson Fraga"
 copyright = "© 2021 Anderson Fraga"
 paginate = 3
 enableInlineShortcodes = true
+
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 
@@ -16,8 +18,8 @@ sectionPagesMenu = "main"
 [params]
 
 [params.theme]
-palette = "gruvbox-dark"
-mode = "dark-mode"
+palette = "gruvbox-light"
+mode = "light-mode"
 
 # Sidebar: about/bio
 [params.about]
@@ -33,24 +35,34 @@ logo = "images/rice.svg"
 [[params.socialLinks]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+url = "https://github.com/krenak/AndyInCodeland"
+
+[[params.socialLinks]]
+icon = "fab fa-gitlab"
+title = "GitLab"
+url = "https://gitlab.com/krenak/blog"
 
 [[params.socialLinks]]
 icon = "fas fa-envelope"
 title = "Email"
-url = "mailto:example@example.com"
+url = "mailto:kaspa@onionmail.com"
 
 [[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+icon = "ai ai-lattes"
+title = "Lattes"
+url = "http://lattes.cnpq.br/5515328414572077"
 
 [menu]
-
-  [[menu.main]]
+    [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
+    weight = 10
+
+    [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
     weight = 10
 
 [taxonomies]
