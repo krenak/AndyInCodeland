@@ -9,7 +9,7 @@ As a good FLOSS enthusiast, I highly encouraged you to contribute with discussio
 All geeks and TI professionals - with emphasis to FLOSS community - suggest to use [Git](https://git-scm.com/book/en/v2) as main driver here, for a variety of reasons. If is a worrisome source for you, [here are some tips to get going using Git](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes).
 For fast-fowarding-back-to-the-future abilities, you could get to assist this blog by reproducing the following steps below.
 
-### Managing local repoistory
+### Managing local repository
 First, configure your Git credentials locally by typing:
 
 ```Git
