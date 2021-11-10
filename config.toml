@@ -23,7 +23,7 @@ mode = "light-mode"
 
 # Sidebar: about/bio
 [params.about]
-title = "Andy in Wonderland"
+title = "Andy in Codeland"
 description = "A blog about my academic and professional adventures, powered by some [magic](https://gohugo.io)."
 logo = "images/rice.svg"
 
